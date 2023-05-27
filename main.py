@@ -24,7 +24,7 @@ def mine():
         auto.press('d')
         time.sleep(1)
         auto.keyUp('d')
-        time.sleep(2)
+        time.sleep(17)
 
 
 # there are chances that the bot will click another penguin
